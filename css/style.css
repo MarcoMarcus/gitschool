@@ -1,4 +1,14 @@
-body{background:blue};
+body{
+  background:blue;
+  width: 970px;
+  margin: 0 auto;
+}
 
-h1{font-size: 180px};
-p{font-size: 90px};
+h1{
+  font-size: 180px;
+}
+
+p{
+  font-size: 90px;
+}
+ 
